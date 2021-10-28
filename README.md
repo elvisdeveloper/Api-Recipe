@@ -1,2 +1,2 @@
 # Api-Recipe
-Api rest for Recipes with django rest framework
+Api rest full for Recipes with django rest framework
